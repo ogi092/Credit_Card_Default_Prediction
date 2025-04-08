@@ -3,7 +3,7 @@
 ## Introduction
 In today's rapidly evolving financial landscape, understanding consumer credit behavior is more critical than ever. With credit playing a vital role in both personal and business transactions, financial institutions constantly seek ways to mitigate risk and predict potential defaults. This project was born from the need to leverage data-driven insights to forecast credit card defaults accurately.
 
-Developed as a graded challenge by Ogi Hadicahyo under the Hacktive8 curriculum (Batch HCK - 012, Phase 1), this project harnesses a comprehensive dataset from Google Cloud. Through meticulous exploratory data analysis and advanced machine learning techniques, the project aims to transform raw data into actionable insights, helping stakeholders make informed decisions in credit risk management.
+This project harnesses a comprehensive dataset from Google Cloud. Through meticulous exploratory data analysis and advanced machine learning techniques, the project aims to transform raw data into actionable insights, helping stakeholders make informed decisions in credit risk management.
 
 ## Main Feature
 - **Data Loading and Exploration:**  
